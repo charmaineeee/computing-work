@@ -9,3 +9,6 @@
 * Fun
 * Even when we talk too loudly, she would not get very mad at us
 * Helps us
+*Cares about the well being of every student
+* Makes every lesson meaningful
+
