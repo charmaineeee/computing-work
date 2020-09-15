@@ -1,1 +1,1 @@
-display,scroll("Hello")
+display.scroll("Hello")
