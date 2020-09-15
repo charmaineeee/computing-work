@@ -1,1 +1,3 @@
-display,scroll("Hello")
+from microbit import*
+
+display.scroll("Hello")
