@@ -1,3 +1,5 @@
-dsplay.show(IMAGE.HAPPY)
-display.show(IMAGE,SAD)
-display.show(IMAGE.SILY)
+from microbit import*
+while True:
+  display.show(Image.HAPPY)
+  display.show(Image.SAD)
+  display.show(Image.SILLY)
